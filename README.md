@@ -1,2 +1,19 @@
-# BookSea
-基于springboot+vue的毕业项目&lt;书海>小说
+# sea-books
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
